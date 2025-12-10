@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Vite
+.vite
+
+# Environment files
+.env
+!.example.env
